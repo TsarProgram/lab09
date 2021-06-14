@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/justddreamm/lab09.svg?branch=master)](https://travis-ci.org/justddreamm/lab09)
 
-# Лабораторная работа №09 Лагов Сергей ИУ8-22
+# Homework. Lab #9
 
 Забиваем переменные
 
