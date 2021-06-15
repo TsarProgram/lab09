@@ -6,7 +6,7 @@
 
 ```
 $ export GITHUB_TOKEN=***
-$ export GITHUB_USERNAME=justddreamm
+$ export GITHUB_USERNAME=vitaliy
 $ export PACKAGE_MANAGER=apt
 $ export GPG_PACKAGE_NAME=gpg
 ```
